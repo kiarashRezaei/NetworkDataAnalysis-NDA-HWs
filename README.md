@@ -4,7 +4,7 @@ Sure! Below is the template for the README file based on the provided code:
 
 ## Table of Contents
 
-- [Homework 1- Failure Management in Optical Networks](#Homework1-Failure ManagementinOpticalNetworks)
+- [Homework 1- Failure Management in Optical Networks](#Homework1-FailureManagementinOpticalNetworks)
 - [Homework 2- Traffic Prediction](#Homework2-TrafficPrediction)
 - [Homework 3- QoS Estimation](#Homework3-QoSEstimation)
 
